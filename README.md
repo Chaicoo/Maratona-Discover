@@ -1,6 +1,6 @@
 # Maratona-Discover
 Projeto criado durante a primeira edição do evento da maratona discover da <a href="https://app.rocketseat.com.br">Rocketseat</a>. O projeto consiste numa
-aplicação web que permite gerenciar as finanças de uma determinada pessoa. 
+aplicação web que permite gerenciar as finanças de uma determinada pessoa. <a href="https://chaicoo.github.io/Maratona-Discover/">Link do projeto</a>.
 
 ### Ferramentas Utilizadas: <br>
 - <img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
